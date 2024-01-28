@@ -1,0 +1,5 @@
+langchain
+openai
+
+# following is not required for deployment
+# pip install ipykernel
